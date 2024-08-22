@@ -67,10 +67,10 @@ WSGI_APPLICATION = 'dcrm.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crmdemo',
-        'USER': 'pradeep',
-        'PASSWORD': 'Password@123',
-        'HOST': 'localhost',
+        'NAME': 'py-djangocrm-githubactions-database',
+        'USER': 'enxygaclyh',
+        'PASSWORD': '0ATma$nzeN9Xanex',
+        'HOST': 'py-djangocrm-githubactions-server.mysql.database.azure.com',
         'PORT': '3306',
     }
 }
